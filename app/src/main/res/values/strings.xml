@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Boulangerie-Patisserie</string>
+    <string name="address"><b>Address:</b> 1944 Cyanville Ave, Dallas, TX</string>
+    <string name="phone"><b>Phone:</b> (290)345-2342</string>
+    <string name="hours">"<b>Hours:</b> Sunday	7AM–7PM \n
+              \t \t \t \t \t \t Monday	7AM–7PM \n
+              \t \t \t \t \t \t Tuesday	7AM–7PM \n
+              \t \t \t \t \t \t Wednesday	7AM–7PM \n
+              \t \t \t \t \t \t Thursday	7AM–7PM \n
+              \t \t \t \t \t \t Friday	7AM–7PM \n
+              \t \t \t \t \t \t Saturday	7AM–7PM"</string>
+</resources>
